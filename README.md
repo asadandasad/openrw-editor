@@ -366,5 +366,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ---
 
-**Made with ❤️ by the OpenRW community**
+**Made with ❤️ by Asad, with the help of Manus**
+Thanks to Manus and Monica (also known as; Butterfly Effect AI)
 
